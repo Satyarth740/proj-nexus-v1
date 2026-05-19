@@ -1,0 +1,27 @@
+# Secrets
+.env
+*.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Build files
+build/
+dist/
+*.spec
+
+# Logs
+log/
+*.log
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db

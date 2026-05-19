@@ -1,0 +1,8 @@
+requests
+rich
+colorama
+pyttsx3
+SpeechRecognition
+rapidfuzz
+pywin32
+pyaudio
